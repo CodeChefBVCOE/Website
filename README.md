@@ -1,17 +1,6 @@
 # CodeChef BVCOE Chapter Website Repository
 
-<p align="center"><img src="https://github.com/ccBVCOE/ccBVCOE.github.io/blob/main/CCBVCOE%20Logo.png" alt="Logo" width="200px" height="200px" hspace="10"/>
-<p align="center">    
-    <img src=https://img.shields.io/github/license/ccBVCOE/ccBVCOE.github.io>  
-    <a href="http://makeapullrequest.com" target="_blank"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat" alt="PRs Welcome"></a>
-    <img alt="Hacktoberfest" src="https://img.shields.io/github/hacktoberfest/2021/ccBVCOE/ccBVCOE.github.io">
-    <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ccBVCOE/ccBVCOE.github.io">
-    <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/ccBVCOE/ccBVCOE.github.io">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/ccBVCOE/ccBVCOE.github.io">
-</p>
-<br>
-
-## Website: [codechefbvcoe.in](https://codechefbvcoe.in)
+## Website: [codechefbvcoe.com](https://codechefbvcoe.com)
 
 **Know more about this Chapter Here:** [CodeChef BVCOE Chapter](https://www.codechef.com/campus_chapter/CodeChef_BVCOE_Chapter)
 
