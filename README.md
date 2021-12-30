@@ -1,6 +1,6 @@
 # CodeChef BVCOE Chapter Website Repository
 
-## Website: [codechefbvcoe.com](https://codechefbvcoe.com)
+## Website: [codechefbvcoend.in](https://codechefbvcoend.in)
 
 **Know more about this Chapter Here:** [CodeChef BVCOE Chapter](https://www.codechef.com/campus_chapter/CodeChef_BVCOE_Chapter)
 
