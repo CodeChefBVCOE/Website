@@ -1,3 +1,10 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-width: 320px;
+  overflow-x: hidden
+}
+
 .u-section-1 {
   background-image: url("images/yyy.jpg");
   background-position: 50% 50%;
